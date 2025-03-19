@@ -46,3 +46,10 @@ body {
 .poem p {
     margin-bottom: 0em;
 }
+
+.poem a {
+    text-decoration: none;
+    color: #ff0000;
+    font-weight: bold;
+    text-transform: uppercase;
+}
