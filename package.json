@@ -1,0 +1,25 @@
+{
+  "name": "learning-git-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skurczyflak/nauka-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Skurczyflak/nauka-git/issues"
+  },
+  "homepage": "https://github.com/Skurczyflak/nauka-git#readme",
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "html-validate": "^9.5.2"
+  }
+}
